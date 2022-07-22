@@ -15,7 +15,7 @@ function checkKey(e) {
 
     if (e.keyCode == "38") {
         goUp();
-    } else if (e.keyCode == "40") {
+    } else if (e.keyCode == "40") { 
         goDown();
     } else if (e.keyCode == "37") {
         goLeft();
